@@ -20,7 +20,7 @@ Exemplo simples de Entity Framework Core (Code First) com Oracle: criação da t
 ### Requisitos
 - .NET 8
 - Visual Studio 2022
-- Acesso a um Oracle (ex.: `oracle.fiap.com.br:1521/ORCL`)
+- Acesso ao Oracle
 
 ### Pacotes NuGet
 - Microsoft.EntityFrameworkCore v8.*
@@ -67,7 +67,7 @@ Simple Entity Framework Core (Code First) with Oracle: creates table `TB_ITEM` v
 ### Requirements
 - .NET 8
 - Visual Studio 2022
-- Oracle instance access (e.g., `oracle.fiap.com.br:1521/ORCL`)
+- Oracle instance access
 
 ### NuGet Packages
 - Microsoft.EntityFrameworkCore v8.*
@@ -114,7 +114,7 @@ Ejemplo simple de Entity Framework Core (Code First) con Oracle: crea la tabla `
 ### Requisitos
 - .NET 8
 - Visual Studio 2022
-- Acceso a Oracle (p.ej., `oracle.fiap.com.br:1521/ORCL`)
+- Acceso a Oracle
 
 ### Paquetes NuGet
 - Microsoft.EntityFrameworkCore v8.*
